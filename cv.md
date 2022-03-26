@@ -26,3 +26,19 @@ Code Example <br>
   return a + b;
 }
  </code>
+<hr>
+<b>Experience</b>
+<hr>
+<b>Education</b>
+<br>
+Courses:
+<ul>
+  <li><a href="https://ru.code-basics.com/languages/php">PHP for beginners</a></li>
+   <li><a href="https://code-basics.com/languages/css">CSS for beginners</a></li>
+   <li><a href="https://code-basics.com/languages/html">HTML for beginners</a></li>
+   <li><a href="https://code-basics.com/languages/javascript">JavaScript for beginners</a></li>
+ </ul>
+<hr>
+English
+<br>
+<p> А1. Beginner и Elementary </p>
